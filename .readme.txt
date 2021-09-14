@@ -1,0 +1,5 @@
+*This is Open Source Project so people could see how the software works Please do not skid it :D -TiTAN*
+1.if you are on windows run .bat files else run .sh files
+2.at start install nodejs from https://nodejs.org/en/download/ if you don't have it.
+3.Run install.sh/install.bat file to install modules else it won't work
+4.Run start.sh/start.bat to run the software and enjoy :D
